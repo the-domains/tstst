@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[tstst]]></title>
         <description><![CDATA[tstst]]></description>
-        <link>https://thegrid.ai/tstst/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 00:50:32 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/tstst/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>It is a test. I am testing the Grid. Grid is cool, but I don't know how it works. So I keep on testing.</p>]]></description>
-            <link>https://thegrid.ai/tstst/c88b06c0-accd-4deb-a832-27020ba4a414/index.html</link>
-            <guid isPermaLink="false">c88b06c0-accd-4deb-a832-27020ba4a414</guid>
-            <pubDate>Thu, 17 Dec 2015 00:50:17 GMT</pubDate>
-        </item>
+        <lastBuildDate>Thu, 17 Dec 2015 00:50:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/tstst/getting-started-on-the-grid/index.html</link>
+            <link>undefinedgetting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">a9e4eeff-dbf2-4aef-b243-0297f4b1e334</guid>
             <pubDate>Thu, 17 Dec 2015 00:50:17 GMT</pubDate>
         </item>
