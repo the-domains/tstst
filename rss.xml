@@ -4,8 +4,15 @@
         <description><![CDATA[Testsite for testing The Grid]]></description>
         <link>https://thegrid.ai/tstst/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 01:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 01:29:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tstst/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Solar eclipse]]></title>
+            <description><![CDATA[<article><h1>Solar eclipse</h1><p>www.solareclipse.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/745a0c65fc474aa54ebcc0d8422109968581fd05.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tstst/solar-eclipse/index.html</link>
+            <guid isPermaLink="false">cdb94b7c-6e57-4550-8aad-26c073879c63</guid>
+            <pubDate>Thu, 17 Dec 2015 01:29:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://www.youtube.com/watch?v=x4IDM3ltTYo</p>]]></description>
